@@ -24,6 +24,15 @@ Check this video below, for demo of this project
 
 For Installation, you can see in every branch already have a readme file. (Front End & Back End)
 
+
+## Related
+
+Here are some link to project
+
+[Front End](https://github.com/erastimothy/brand-name-laravel-vue/tree/front-end)
+
+[Back End](https://github.com/erastimothy/brand-name-laravel-vue/tree/back-end)
+  
     
 ## Authors
 
